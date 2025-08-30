@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# vars file for test
+app_name: "myapp"
+app_port: 8080

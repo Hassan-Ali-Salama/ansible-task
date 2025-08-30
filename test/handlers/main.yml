@@ -1,0 +1,7 @@
+#SPDX-License-Identifier: MIT-0
+---
+# handlers file for test 
+- name: Restart nginx
+  debug:
+      msg: "App {{ app_name }} is running on port {{ app_port }}"
+
