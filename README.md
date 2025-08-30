@@ -2,11 +2,11 @@
 
 ## Running project
 
-![Running Project](1.png)
+![Running Project](screenshot/1.png)
 
 ## Check
 
-![Check](2.png)
+![Check](screenshot/2.png)
 
 
 
